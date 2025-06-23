@@ -29,21 +29,21 @@ const Home = () => {
       title: "Travel the world!!!!!",
       category: "Travel",
       img_url:
-        "https://img.freepik.com/premium-vector/time-travel-world-vector-design-travel-explore-world-different-countries_572288-755.jpg?w=740",
+        "../images/travel.jpg",
     },
     {
       _id: "2",
       title: "Art!!!!!!!!!!!!",
       category: "Art",
       img_url:
-        "https://i.pinimg.com/736x/cc/88/80/cc8880b5e8ae7236e0bd840a91485fda.jpg",
+        "../images/art.jpg",
     },
     {
       _id: "3",
       title: "Food is Art!!!!",
       category: "Food",
       img_url:
-        "https://blogs.uoregon.edu/aad250f13huette/files/2013/10/Fish_Food_Art-203oss6.jpg",
+        "../images/food.jpg",
     },
   ];
 
